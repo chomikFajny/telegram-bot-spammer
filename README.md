@@ -1,2 +1,2 @@
-# telegram bot spammer in python
-# my discord chomi#2228
+# simple telegram bot
+simple spammer just sends requests :D
